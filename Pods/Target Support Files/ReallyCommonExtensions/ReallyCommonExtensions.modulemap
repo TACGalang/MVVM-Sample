@@ -1,0 +1,6 @@
+framework module ReallyCommonExtensions {
+  umbrella header "ReallyCommonExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
